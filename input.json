@@ -1,0 +1,10 @@
+{
+  "pageUrls": [
+    "https://en.wikipedia.org/wiki/Hummingbird"
+  ],
+  "fileTypes": [
+    "image"
+  ],
+  "maxFilesPerPage": 20,
+  "maxItems": 20
+}

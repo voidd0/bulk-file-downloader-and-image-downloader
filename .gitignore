@@ -1,0 +1,5 @@
+results.csv
+results.json
+__pycache__/
+.env
+node_modules/
